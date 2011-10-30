@@ -15,6 +15,8 @@ surface
 
 [fixed]
 
+[absheight]
+
 [surface]
 
 [splinehelper]
@@ -153,7 +155,4 @@ Splines\Marcel\str_2spur_11m_SeeburgerStr1.sli
 
 
 [mesh]
-haltestelle.o3d
-
-[collision_mesh]
 haltestelle.o3d
