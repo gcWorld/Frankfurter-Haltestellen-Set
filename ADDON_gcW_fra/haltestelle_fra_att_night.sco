@@ -1,11 +1,10 @@
 [groups]
 2
-German Street Side
-Traffic Signs
-
+Frankfurt
+Haltestelle
 
 [friendlyname]
-Haltestelle Frankfurt ATT Night
+Linienkarte Nacht
 
 [texttexture]
 0
