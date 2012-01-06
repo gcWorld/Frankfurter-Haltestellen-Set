@@ -10,6 +10,8 @@ Frankfurter Haltestelle
 [mesh]
 fra_haltestelle.o3d
 
+[shadow]
+
 [mesh]
 fra_haltestelle_glass.o3d
 
@@ -24,9 +26,18 @@ fra_haltestelle.tga
 envmap.bmp
 0.2
 
-[shadow]
-
 [fixed]
 
 [rendertype]
 4
+
+[maplight]
+0
+0
+2
+1
+1
+0.8
+1.3
+
+[nomaplighting]
