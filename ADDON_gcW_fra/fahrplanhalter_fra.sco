@@ -1,8 +1,7 @@
-[groups]
+﻿[groups]
 2
-German Street Side
-Traffic Signs
-
+Frankfurt
+Haltestelle
 
 [friendlyname]
 Fahrplanhalter Frankfurt
