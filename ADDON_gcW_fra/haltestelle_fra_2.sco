@@ -6,31 +6,35 @@ Haltestelle
 [friendlyname]
 Haltestelle Frankfurt Groﬂ
 
-[texttexture]
+[texttexture_enh]
 0
 DIN
-500
+512
 128
 0
 0
 0
+0
+1
 0
 
-[texttexture]
+[texttexture_enh]
 1
 DIN
-256
+412
 128
 0
 0
 0
+0
+1
 0
 
 [texttexture]
 2
 DIN
-256
-64
+180
+100
 0
 0
 0

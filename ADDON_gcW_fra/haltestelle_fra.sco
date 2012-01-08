@@ -8,9 +8,9 @@ Haltestelle Frankfurt
 
 [texttexture]
 0
-test
-200
-50
+DIN
+512
+128
 0
 0
 0

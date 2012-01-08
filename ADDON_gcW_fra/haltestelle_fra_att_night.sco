@@ -8,9 +8,9 @@ Linienkarte Nacht
 
 [texttexture]
 0
-test
-44
-44
+DIN
+90
+90
 0
 242
 195
@@ -18,9 +18,9 @@ test
 
 [texttexture]
 1
-test
-256
-64
+DIN
+512
+128
 0
 242
 195
