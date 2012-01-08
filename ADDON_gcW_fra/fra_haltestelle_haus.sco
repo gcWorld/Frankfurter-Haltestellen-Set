@@ -15,7 +15,7 @@ fra_haltestelle_haus.o3d
 fra_haltestelle_haus_glass.o3d
 
 [matl]
-fra_haltestelle_haus.tga
+fra_haltestelle.tga
 0
 
 [matl_alpha]
