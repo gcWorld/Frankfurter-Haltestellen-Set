@@ -1,28 +1,27 @@
 [groups]
 2
-German Street Side
-Traffic Signs
-
+Frankfurt
+Haltestelle
 
 [friendlyname]
-Haltestelle Frankfurt ATT
+Linienkarte
 
 [texttexture]
 0
-test
-44
-44
-1
+DIN
+90
+90
+0
 0
 0
 0
 
 [texttexture]
 1
-test
-256
+DIN
+412
 64
-1
+0
 0
 0
 0

@@ -4,9 +4,9 @@ Frankfurt
 Haltestelle
 
 [friendlyname]
-Haltestelle Frankfurt
+Haltestelle Frankfurt Groﬂ
 
-[texttexture]
+[texttexture_enh]
 0
 DIN
 512
@@ -15,9 +15,33 @@ DIN
 0
 0
 0
+1
+0
+
+[texttexture_enh]
+1
+DIN
+412
+128
+0
+0
+0
+0
+1
+0
+
+[texttexture]
+2
+DIN
+180
+100
+0
+0
+0
+0
 
 [mesh]
-haltestelle_frank.o3d
+haltestelle_frank_2.o3d
 
 [shadow]
 
@@ -42,6 +66,26 @@ text.bmp
 
 [useTextTexture]
 0
+
+[matl_alpha]
+2
+
+[matl]
+text.bmp
+1
+
+[useTextTexture]
+1
+
+[matl_alpha]
+2
+
+[matl]
+text.bmp
+2
+
+[useTextTexture]
+2
 
 [matl_alpha]
 2

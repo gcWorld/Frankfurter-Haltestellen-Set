@@ -1,6 +1,7 @@
 [groups]
-1
-German Street Side
+2
+Frankfurt
+Haltestelle
 
 [friendlyname]
 Fahrkartenautomat RMF
@@ -14,11 +15,3 @@ fahrkarten.o3d
 2
 
 [fixed]
-
-[matl]
-fahrkarten.dds
-0
-
-[matl_bumpmap]
-fahrkarten_NRM.dds
-0.05

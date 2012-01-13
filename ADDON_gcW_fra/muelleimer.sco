@@ -1,6 +1,7 @@
 [groups]
-1
-German Street Side
+2
+Frankfurt
+Haltestelle
 
 [friendlyname]
 Mülleimer
@@ -8,18 +9,13 @@ Mülleimer
 [mesh]
 muelleimer.o3d
 
+[collision_mesh]
+muelleimer_coll.o3d
+
 [shadow]
 
 [complexity]
 2
-
-[boundingbox]
-0.31
-0.31
-0.81
-0
-0
-0.405
 
 [momentofintertia]
 3
