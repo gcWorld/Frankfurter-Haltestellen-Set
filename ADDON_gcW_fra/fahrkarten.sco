@@ -15,3 +15,5 @@ fahrkarten.o3d
 2
 
 [fixed]
+
+[nomaplighting]
