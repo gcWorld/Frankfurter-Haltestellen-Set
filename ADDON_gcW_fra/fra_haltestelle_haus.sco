@@ -29,7 +29,7 @@ fra_haltestelle.tga
 2
 
 [matl_envmap]
-envmap.bmp
+envmap.dds
 0.2
 
 [fixed]
