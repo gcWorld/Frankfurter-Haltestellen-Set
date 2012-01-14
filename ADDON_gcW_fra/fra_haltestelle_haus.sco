@@ -9,6 +9,13 @@ Frankfurter Wartehaus
 [mesh]
 fra_haltestelle_haus.o3d
 
+[matl]
+fra_haltestelle.tga
+
+[matl_freetex]
+fra_haltestelle.tga
+werbung
+
 [shadow]
 
 [mesh]
