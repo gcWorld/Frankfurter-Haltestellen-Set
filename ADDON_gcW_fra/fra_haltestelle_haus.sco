@@ -6,6 +6,9 @@ Haltestelle
 [friendlyname]
 Frankfurter Wartehaus
 
+[passengercabin]
+fra_haltestelle_haus_passenger.cfg
+
 [mesh]
 fra_haltestelle_haus.o3d
 
