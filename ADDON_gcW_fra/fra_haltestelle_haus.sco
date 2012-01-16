@@ -11,6 +11,7 @@ fra_haltestelle_haus.o3d
 
 [matl]
 fra_haltestelle.tga
+1
 
 [matl_freetex]
 fra_haltestelle.tga
@@ -30,7 +31,7 @@ fra_haltestelle.tga
 
 [matl_envmap]
 envmap.dds
-0.2
+0.5
 
 [fixed]
 
