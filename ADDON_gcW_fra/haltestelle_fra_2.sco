@@ -93,34 +93,41 @@ text.bmp
 [new_attachment]
 
 attach_trans
-0.120
+-0.3561
 0.0
-2.750
+2.6053
 
 [new_attachment]
 
 attach_trans
--0.120
+-0.3561
 0.0
-2.550
+2.4740
 
 [new_attachment]
 
 attach_trans
-0.120
+-0.3561
 0.0
-2.550
+2.3423
 
 [new_attachment]
 
 attach_trans
-0.120
+-0.3561
 0.0
-2.350
+2.2131
 
 [new_attachment]
 
 attach_trans
-0.120
+-0.3561
 0.0
-2.150
+2.0813
+
+[new_attachment]
+
+attach_trans
+-0.3561
+0.0
+1.9495
