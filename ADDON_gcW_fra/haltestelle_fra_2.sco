@@ -18,28 +18,6 @@ DIN
 1
 0
 
-[texttexture_enh]
-1
-DIN
-412
-128
-0
-0
-0
-0
-1
-0
-
-[texttexture]
-2
-DIN
-180
-100
-0
-0
-0
-0
-
 [mesh]
 haltestelle_frank_2.o3d
 
