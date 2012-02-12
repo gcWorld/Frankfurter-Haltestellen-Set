@@ -9,9 +9,6 @@ Mülleimer
 [mesh]
 muelleimer.o3d
 
-[collision_mesh]
-muelleimer_coll.o3d
-
 [shadow]
 
 [complexity]
