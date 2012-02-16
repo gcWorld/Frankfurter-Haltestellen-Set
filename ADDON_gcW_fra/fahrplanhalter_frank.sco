@@ -10,3 +10,6 @@ Fahrplanhalter Frankfurt
 fahrplanhalter_frank.o3d
 
 [shadow]
+
+[complexity]
+2

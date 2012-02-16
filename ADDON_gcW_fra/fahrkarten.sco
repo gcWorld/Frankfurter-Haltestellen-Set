@@ -4,7 +4,7 @@ Frankfurt
 Haltestelle
 
 [friendlyname]
-Fahrkartenautomat RMF
+Fahrkartenautomat
 
 [mesh]
 fahrkarten.o3d

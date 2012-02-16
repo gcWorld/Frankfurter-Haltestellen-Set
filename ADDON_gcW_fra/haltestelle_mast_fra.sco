@@ -17,3 +17,6 @@ haltestelle_mast_frank.o3d
 
 [mass]
 0.10
+
+[complexity]
+2

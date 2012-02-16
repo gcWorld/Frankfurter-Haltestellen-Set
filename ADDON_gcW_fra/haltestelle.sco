@@ -1,7 +1,7 @@
 This file was created with the Omsi Object Editing tool
 
 [friendlyname]
-Haltestelle Frankfurt
+Haltestelle Frankfurt Boden
 
 [groups]
 2
